@@ -7,3 +7,11 @@
         height: 100%;
     }
 }
+@media (min-width: 768px) {
+    /* #blog_sec .row{
+        display: flex;
+    }
+    #blog_sec .col-sm-4{
+        display: flex;
+    } */
+}

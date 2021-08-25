@@ -9,5 +9,10 @@
 }
 #portfolio h4{
     color: black;
-    font-weight: 700;
+    font-weight: 500;
+    font-size: 14px;
+}
+
+#portfolio .img-cap{
+    font-size: 13px;
 }
